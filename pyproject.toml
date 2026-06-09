@@ -1,0 +1,10 @@
+[project]
+name = "mt5-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "metatrader5>=5.0.5735",
+    "pandas>=3.0.3",
+]
